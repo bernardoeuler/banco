@@ -10,6 +10,7 @@ Esse sistema que simula um banco é a etapa final de um dos cursos de Java da Al
 - Depositar
 - Sacar
 - Transferir
+- Listar contas
 - Sair da conta
 - Sair do programa
 
