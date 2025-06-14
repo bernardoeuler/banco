@@ -4,9 +4,13 @@ Esse sistema que simula um banco é a etapa final de um dos cursos de Java da Al
 
 ## Funcionalidades
 
+- Cadastrar
+- Fazer login
 - Consultar saldo da conta
-- Receber valor
-- Transferir valor
+- Depositar
+- Sacar
+- Transferir
+- Sair da conta
 - Sair do programa
 
 ## Dependências
