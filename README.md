@@ -6,6 +6,9 @@ Esse sistema que simula um banco é a etapa final de um dos cursos de Java da Al
 
 - Cadastrar
 - Fazer login
+- Criar nova conta
+- Excluir conta
+- Encerrar cadastro
 - Consultar saldo da conta
 - Depositar
 - Sacar
