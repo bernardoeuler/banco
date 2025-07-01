@@ -1,3 +1,7 @@
+package conta;
+
+import cliente.Cliente;
+
 public class Conta {
     String numeroConta;
     String numeroAgencia;

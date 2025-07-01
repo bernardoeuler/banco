@@ -1,4 +1,7 @@
+package cliente;
+
 import java.util.ArrayList;
+import conta.Conta;
 
 public class Cliente {
     String nome;
